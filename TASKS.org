@@ -1,0 +1,18 @@
+#+TITLE: Tasks
+
+* TODO (1) [%]
+** TODO Add skeleton to the mode so `M-x CP-mode` does turn on the mode,
+** TODO Add `M-x` calls and shortcuts,
+** TODO Add functionality to create a new empty buffer,
+** TODO Add functionality to copy the current function to the new buffer,
+** TODO Add functionality to "call" the follow-on functions and collect their paths and locations in their respective within these paths (in the file),
+** TODO Use functionality to copy functions (and maintain internal references to these) and copy them in the order they are being called,
+** TODO Add numbering to the subfunctions in the new buffer, indent 2-6 spaces in from the function calling.
+
+* TODO (2) [%]
+** TODO research required to determine next steps
+
+* TODO (3) [%]
+** TODO research required to determine next steps
+
+* TODO Clean up, add documentation and polish code. [Final step]

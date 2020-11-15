@@ -1,0 +1,27 @@
+#+TITLE: Emacs Code Productivity Mode (CP-mode for short)
+*GOAL:* The goal of this mode is to dramatically increase developer productivity in dealing with code.
+
+*DESCRIPTION:* CP-mode is a major mode for emacs where the user can quickly and speedily (1) get the chain of method calls for a particular function in a single buffer. The methods can be edited in the buffer and the changes are populated into the respective files. The displayed chain of calls can also be folded/unfolded with a command line
+The final package will display code as it's executing on a buffer on the right side of emacs displaying the data transformation.
+
+_;; The project is looking for contributors._
+
+** Status
+`Current version: 0.0.1`
+`Status: unstable`
+
+* Table of Contents                                                     :TOC:
+ - [[#docs][Docs]]
+ - [[#tasks][Tasks]]
+ - [[#motif][Motif]]
+
+
+* Docs
+Section to be filled in as soon as the minimum functionality is ready.
+As a bare minimum, as a user of this pacakge you will need to install it and load it into your `~/.emacs.d/init.el` file ([[https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html][or the file you use as your init file]).
+
+* Tasks
+Tasks to be completed, to reasearch, and general work that has been carried on can be found in the TASKS.org file in this repository.
+
+* Motif
+The current package is built through a sponsorhip of [[https://kippie.co][Kippie]]. At  [[https://kippie.co][Kippie]] developer productivity is top priority and we know the unique way to get better is by improving on the current tools we are using: sometimes in a general manner, sometimes in a specific manner. Our ethos is that by improving upon our tools we will be more effective and by being more effective we will accomplish more with less (time and effort) while working on bigger problems than we could otherwise and have a big impact.
